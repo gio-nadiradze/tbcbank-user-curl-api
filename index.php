@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Tbilisi');
 $user = 'your_username';
 $pass = 'your_password';
 
-$agents = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36';
+$agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36';
 
 // start from login page
 $url = 'https://tbconline.ge/tbcrd/login';
